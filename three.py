@@ -1,1 +1,1 @@
-print('Inside three')
+a=10
